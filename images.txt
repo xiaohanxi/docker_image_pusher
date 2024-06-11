@@ -4,5 +4,6 @@ whyour/qinglong:2.11.3
 tjx900503/pro:latest
 mlikiowa/napcat-docker:latest
 luomubiji/ntqq:latest
+jiangjuhong/dujiaoka
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
