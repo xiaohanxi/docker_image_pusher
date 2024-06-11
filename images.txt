@@ -1,5 +1,6 @@
 kasmweb/nginx:1.25.3
 whyour/qinglong:latest
+whyour/qinglong:2.11.3
 tjx900503/pro:latest
 mlikiowa/napcat-docker:latest
 --platform=linux/amd64 redis:7.0.15-alpine3.20
