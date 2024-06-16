@@ -5,6 +5,7 @@ tjx900503/pro:latest
 mlikiowa/napcat-docker:latest
 jiangjuhong/dujiaoka
 hunyan/ntqq:latest
+mlikiowa/napcat-docker:latest
 --platform=linux/amd64 luomubiji/ntqq:latest
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
