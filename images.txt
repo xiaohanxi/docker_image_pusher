@@ -7,5 +7,6 @@ jiangjuhong/dujiaoka
 hunyan/ntqq:latest
 luomubiji/ntqq:latest
 mlikiowa/napcat-docker:latest
+mzz2017/v2raya
 --platform=linux/amd64 redis:7.0.15-alpine3.20
 --platform=linux/arm/v7 redis:7.0.15-alpine3.20
