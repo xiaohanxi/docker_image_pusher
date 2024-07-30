@@ -1,3 +1,4 @@
+shufflewzc/autoupdateck:latest
 kasmweb/nginx:1.25.3
 whyour/qinglong:latest
 whyour/qinglong:2.11.3
