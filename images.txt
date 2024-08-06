@@ -6,7 +6,6 @@ whyour/qinglong:2.11.3
 tjx900503/pro:latest
 mlikiowa/napcat-docker:latest
 jiangjuhong/dujiaoka
-hunyan/ntqq:latest
 luomubiji/ntqq:latest
 mlikiowa/napcat-docker:latest
 mzz2017/v2raya
